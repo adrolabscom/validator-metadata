@@ -27,6 +27,11 @@
   {
     "address": "0xDf984F5E4b67a362fDe0895c2fE7729592ECe8f3",
     "logo": false,
-    "description": "LITENODE in cloud 24/24. Stable and synchronized"
+    "description": "LITENODE in cloud 24/24. Stable and synchronized."
+  },
+  {
+    "address": "0x5060B7Cd1b6851F85F84235dd7395242ea59c0cf",
+    "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/nodestradamus.png",
+    "description": "Taraxa Mainnet Validator Node Cloud Hosted Always updated."
   }
 ]
