@@ -63,5 +63,10 @@
     "address": "0x132F9d95858F0FE8a6a37b761C67677028f97ef2",
     "logo": "https://www.0xblockdag.com/images/0xLogo.png",
     "description": "Our Taraxa validator node is built for performance, security, and stability. Hosted on a dedicated cloud server (not a home network), it ensures high uptime and consistent performance. Specs: 4 CPUs, 16GB RAM, 200GB disk, 16TB bandwidth. Features include Ubuntu OS, upgradeability, automated backups, and snapshots. Launched March 5, 2025."
+  },
+  {
+    "address": "0x03bCF4079A8AAf266aaa8e07ca2a4C5a63F6881B",
+    "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/faucetpay.png",
+    "description": "FaucetPay.io is a micro wallet and online platform that allows users to earn cryptocurrency through various methods, including faucets and staking."
   }
 ]
