@@ -68,5 +68,10 @@
     "address": "0x03bCF4079A8AAf266aaa8e07ca2a4C5a63F6881B",
     "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/faucetpay.png",
     "description": "FaucetPay.io is a micro wallet and online platform that allows users to earn cryptocurrency through various methods, including faucets and staking."
+  },
+  {
+    "address": "0x1d8240C50cC3EeFa80bCA068624236f35ade7e1b",
+    "logo": false,
+    "description": "First mainnet node in Korea."
   }
 ]
