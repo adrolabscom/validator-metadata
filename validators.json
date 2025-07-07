@@ -1,7 +1,7 @@
 [
   {
     "address": "0x5eD55Cef62571C0E72B32A1333fEE814B68C3ea5",
-    "logo": false,
+    "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/monada.png",
     "description": "We create and maintain validators for staking using cloud-based secured solutions (DigitalOcean, Hetzner)."
   }
 ]
