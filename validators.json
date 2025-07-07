@@ -38,5 +38,10 @@
     "address": "0x575910424ac437467726542781508B2220B71CE8",
     "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/swiss-taraxa.png",
     "description": "TARAXA Full Node with a 16TB server with RAID 1 for data reliability, hosted in a Tier 3 data center for enhanced security and performance. 🚀 It is managed from Switzerland 🇨🇭."
+  },
+  {
+    "address": "0x94ED6d1386f18E63888312a9F222fAc576AE41F7",
+    "logo": "https://coreblock.cloud/_next/static/media/logo.13f6a5b6.png",
+    "description": "Core Block is a validator company. We help institutional investors and regular token holders to profit off their crypto assets."
   }
 ]
