@@ -24,4 +24,9 @@
     "logo": "https://taraxa.cryptobauer.com/images/node-logo.png",
     "description": "Full consensus node in Europe 🇪🇺 powered by 100% renewable energy. Specs: Intel Core i7-7700, 64 GB DDR ECC RAM, 2× 4 TB SATA HDD (RAID 1), 1 Gbit/s bandwidth."
   },
+  {
+    "address": "0xDf984F5E4b67a362fDe0895c2fE7729592ECe8f3",
+    "logo": false,
+    "description": "LITENODE in cloud 24/24. Stable and synchronized"
+  }
 ]
