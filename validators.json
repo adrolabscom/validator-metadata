@@ -13,5 +13,15 @@
     "address": "0x70B7Ffd8269F116f7DF6A46EDd993263aBD3EEB0",
     "logo": false,
     "description": "Iceland's first Taraxa validator! Running on pure volcanic power!"
-  }
+  },
+  {
+    "address": "0xa8a23a6c96A09C7783B70373d2302feFd943730e",
+    "logo": "https://taraxa.cryptobauer.com/images/node-logo.png",
+    "description": "Full consensus node in Europe 🇪🇺 powered by 100% renewable energy. Specs: Intel Core i7-7700, 64 GB DDR ECC RAM, 2× 4 TB SATA HDD (RAID 1), 1 Gbit/s bandwidth."
+  },
+  {
+    "address": "0xf27d87cda5bc0bfac6ef93222cfd83c6e8dc9f0d",
+    "logo": "https://taraxa.cryptobauer.com/images/node-logo.png",
+    "description": "Full consensus node in Europe 🇪🇺 powered by 100% renewable energy. Specs: Intel Core i7-7700, 64 GB DDR ECC RAM, 2× 4 TB SATA HDD (RAID 1), 1 Gbit/s bandwidth."
+  },
 ]
