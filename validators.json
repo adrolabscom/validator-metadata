@@ -48,5 +48,10 @@
     "address": "0xc962CD4Cf1AA48558198DD8A403770C628957EA6",
     "logo": "https://mozcomputing.dev/images/logo.png",
     "description": "MozComputing is a highly reliable node operator with over $10M+ in total value staked, running 20+ servers across 5+ global locations. Our hybrid cloud infrastructure leverages Kubernetes, geo routing, and solar power. Locations include the US (Chicago), Europe (France, Germany, Netherlands), Asia (Vietnam), and Japan (Tokyo)."
+  },
+  {
+    "address": "0x132F9d95858F0FE8a6a37b761C67677028f97ef2",
+    "logo": "https://www.0xblockdag.com/images/0xLogo.png",
+    "description": "Our Taraxa validator node is built for performance, security, and stability. Hosted on a dedicated cloud server (not a home network), it ensures high uptime and consistent performance. Specs: 4 CPUs, 16GB RAM, 200GB disk, 16TB bandwidth. Features include Ubuntu OS, upgradeability, automated backups, and snapshots. Launched March 5, 2025."
   }
 ]
