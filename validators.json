@@ -33,5 +33,10 @@
     "address": "0x5060B7Cd1b6851F85F84235dd7395242ea59c0cf",
     "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/nodestradamus.png",
     "description": "Taraxa Mainnet Validator Node Cloud Hosted Always updated."
+  },
+  {
+    "address": "0x575910424ac437467726542781508B2220B71CE8",
+    "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/swiss-taraxa.png",
+    "description": "TARAXA Full Node with a 16TB server with RAID 1 for data reliability, hosted in a Tier 3 data center for enhanced security and performance. 🚀 It is managed from Switzerland 🇨🇭."
   }
 ]
