@@ -3,5 +3,10 @@
     "address": "0x5eD55Cef62571C0E72B32A1333fEE814B68C3ea5",
     "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/monada.png",
     "description": "We create and maintain validators for staking using cloud-based secured solutions (DigitalOcean, Hetzner)."
+  },
+  {
+    "address": "0xa6CEC53b4D7920709F05Ca1F7AC0d66338d29Cb9",
+    "logo": "https://services.liveraven.net/~gitbook/image?url=https%3A%2F%2F2612835276-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FKa0inhf6GsHR1Zdp0Rbt%252Ficon%252FfSR7jhAFRt8i7v9O5PX3%252Fphoto_2017-06-19_15-11-28.jpg%3Falt%3Dmedia%26token%3D349d369f-b1d3-4b1f-9bd7-835b606cad8b&width=32&dpr=4&quality=100&sign=ad414ff5&sv=2",
+    "description": false
   }
 ]
