@@ -73,5 +73,25 @@
     "address": "0x1d8240C50cC3EeFa80bCA068624236f35ade7e1b",
     "logo": false,
     "description": "First mainnet node in Korea."
+  },
+  {
+    "address": "0x9c84E9f0E7c43524D12532f0Ea4f5bd7427FeCDD",
+    "logo": "https://ugc.production.linktr.ee/555425dc-b87d-4076-a796-66098fa09279_trendmoon-logo-black.png?io=true&size=avatar-v3_0",
+    "description": false
+  },
+  {
+    "address": "0x6e2D79c801b5E07aCB74a74e0cc253D0BC56BB4b",
+    "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/tara-to.png",
+    "description": false
+  },
+  {
+    "address": "0x9cb6D6960A82738F6B5a1033FFD0aD0f150d1249",
+    "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/smash.png",
+    "description": "SMASH's Cloud Node powers the Taraxa network with high performance and speed: 4 multithreaded CPUs, 16GB RAM, 200GB NVMe SSD, and 16TB bandwidth. Fast, reliable, and globally connected."
+  },
+  {
+    "address": "0x169EB6dbCf87f48d0F2c7f60245B22dAcac04C66",
+    "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/thexcrypto.png",
+    "description": false
   }
 ]
