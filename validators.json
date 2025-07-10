@@ -93,5 +93,10 @@
     "address": "0x169EB6dbCf87f48d0F2c7f60245B22dAcac04C66",
     "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/thexcrypto.png",
     "description": false
+  },
+  {
+    "address": "0xa6488E0Dd259c48e0d6c0380fF5b08f6ae02a641",
+    "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/fomogod.png",
+    "description": "The FOMOGOD node fuels the ecosystem by converting rewards into daily token burns : turning validation into domination. Running on VPS KVM 4 from Hostinger."
   }
 ]
