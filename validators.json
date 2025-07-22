@@ -103,5 +103,15 @@
     "address": "0xa6488E0Dd259c48e0d6c0380fF5b08f6ae02a641",
     "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/fomogod.png",
     "description": "The FOMOGOD node fuels the ecosystem by converting rewards into daily token burns : turning validation into domination. Running on VPS KVM 4 from Hostinger."
+  },
+  {
+    "address": "0x138C1b9BaeA7D93a981ba694F5318f735C997298",
+    "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/squirrel.png",
+    "description": " As a node operator, I’ve been deeply involved in Taraxa’s development, ensuring the network grows stronger with every block. With me, you’ll have access to one of the most reliable nodes in the network, backed by years of blockchain knowledge. Together, let’s climb the trees of innovation and make every transaction count."
+  },
+  {
+    "address": "0xA959835a80222aCba79E2ea481B810D0f3F07fc7",
+    "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/grumpy.png",
+    "description": false
   }
 ]
