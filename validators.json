@@ -11,7 +11,7 @@
   },
   {
     "address": "0x70B7Ffd8269F116f7DF6A46EDd993263aBD3EEB0",
-    "logo": false,
+    "logo": "https://raw.githubusercontent.com/adrolabscom/validator-metadata/refs/heads/main/images/iceland.png",
     "description": "Iceland's first Taraxa validator! Running on pure volcanic power!"
   },
   {
